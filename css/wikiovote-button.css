@@ -1,0 +1,33 @@
+/* Boost Buttons */
+/* Capsule Versions */
+.wp_wikio_button_capsulewhite, .wp_wikio_button_capsuleblue {width:70px;}
+
+/* grosser Button*/
+.wikiotext {font-family:Arial,Helvetica,sans-serif;font-size:9px;color:#666666;}
+.wikiobutton{width:47px;border:1px solid #b7bbbe;margin:0px;padding:0px;background-color:#FFFFFF;}
+.wikio{height:15px;margin-left:1px;border:0px !important;}
+.wikiotxt{height:50px;text-align:center;}
+.a{background:url(../img/trait.gif) repeat-x bottom !important;}
+.wbutton{background:url(../img/degrade.gif) repeat-x bottom !important;}
+.wikionote{font-family:Arial, Helvetica, sans-serif;font-weight:bold;padding:6px 0 4px 0;}
+.wikioaction {font-family:Arial, Helvetica, sans-serif;font-weight:bold;font-size:11px;color:#333333;}
+.wikioimg{border:0px !important;padding:0px !important;margin:0px !important;}
+.wikioimg img{border:0px !important;padding:0px !important;margin:0px !important;}
+.wikionote a {text-decoration:none;color:#f18717;font-size:16px;border:0px !important;}
+.wikionote a:visited {text-decoration:none;color:#f18717;font-size:16px;border:0px !important;}
+.wikionote a:hover{text-decoration:none;color:#f18717;font-size:16px;border:0px !important;}
+.wikioaction a {text-decoration:none;color:#333333;border:0px !important;}
+.wikioaction a:visited {text-decoration:none;color:#333333;border:0px !important;}
+.wikioaction a:hover{text-decoration:underline;color:#333333;border:0px !important;}
+
+/* Langer WikioVote-Button */
+.wikiotext{font-family:Arial,Helvetica,sans-serif;font-size:9px;color:#666666;}
+.wikiolink a:link{text-decoration:none;color:#666666;}
+.wikiolink a:visited,.wikiolink a:hover{text-decoration:none;color:#f99412;border:0px !important;}
+.wikiobutton1{float:left;background:url(../img/bouton.gif) no-repeat;width:120px;height:17px;font-family:Arial,Helvetica,sans-serif;font-size: 9px;color: #666666;}
+.wikiobutton1 p {margin:0 !important;}
+.wikioaction1{line-height:14px;float:left;height:14px;padding:1px 2px 2px 4px;font-family:Arial, Helvetica, sans-serif;font-size:11px;font-weight:bold;}
+.wikiovote1{line-height:14px;float:right;height:14px;margin-right:49px;padding:2px 2px 1px 4px;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;color:#f99412;border-left:1px solid #b8bbbd;cursor:pointer; }
+.wikioaction1 a:link,.wikioaction1 a:visited {text-decoration:none;color:#666666;border:0px !important;}
+.wikioaction1 a:hover{text-decoration:none;color:#f99412;border:0px !important;}
+.wikiovote1 a:link,.wikiovote1 a:visited,.wikiovote1 a:hover{text-decoration:none;color:#f99412;border:0px !important;}

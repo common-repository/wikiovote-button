@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wikiovote-button.php:496
+#@ default
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wikiovote-button.php:267
+#@ wikiovote_button
+msgid "Settings for WikioVote-Button"
+msgstr "Einstellungen für den WikioVote-Button"
+
+#: wikiovote-button.php:268
+#@ wikiovote_button
+msgid "This plugin will install the WikioVote-Button for each of your blog posts."
+msgstr "Dieses Plugin fügt den WikioVote-Button in Deinen Blog ein."
+
+#: wikiovote-button.php:301
+#@ wikiovote_button
+msgid "Display"
+msgstr "Anzeige"
+
+#: wikiovote-button.php:276
+#@ wikiovote_button
+msgid "Support me if you like the Plugin"
+msgstr "Wenn Dir das Plugin gefällt, spendier mir nen Kaffee .-)"
+
+#: wikiovote-button.php:306
+#@ wikiovote_button
+msgid "Display the button on pages"
+msgstr "Zeige den Button auf CMS-Seiten"
+
+#: wikiovote-button.php:310
+#@ wikiovote_button
+msgid "Display the button on front page (home)"
+msgstr "Zeige den Button auf der Startseite"
+
+#: wikiovote-button.php:314
+#@ wikiovote_button
+msgid "Display the button on archive-view <em>(<strong>Note</strong>: not all themes support this option)</em>"
+msgstr "Zeige den Button auf der Archivseite <em>(<strong>Hinweis</strong>: Nicht jedes Theme unterstützt diese Option)</em>"
+
+#: wikiovote-button.php:318
+#@ wikiovote_button
+msgid "Display the button on category-view <em>(<strong>Note</strong>: not all themes support this option)</em>"
+msgstr "Zeige den Button auf der Kategorieseite <em>(<strong>Hinweis</strong>: Nicht jedes Theme unterstützt diese Option)</em>"
+
+#: wikiovote-button.php:322
+#@ wikiovote_button
+msgid "Display the button on rss-feed"
+msgstr "Zeige den Button im RSS-Feed"
+
+#: wikiovote-button.php:330
+#@ wikiovote_button
+msgid "Position"
+msgstr "Position"
+
+#: wikiovote-button.php:334
+#: wikiovote-button.php:350
+#@ wikiovote_button
+msgid "Before"
+msgstr "Anfang"
+
+#: wikiovote-button.php:335
+#: wikiovote-button.php:351
+#@ wikiovote_button
+msgid "After"
+msgstr "Ende"
+
+#: wikiovote-button.php:336
+#: wikiovote-button.php:352
+#@ wikiovote_button
+msgid "Before and After"
+msgstr "Anfang und Ende"
+
+#: wikiovote-button.php:337
+#: wikiovote-button.php:353
+#@ wikiovote_button
+msgid "Shortcode [wikiobutton]"
+msgstr "Shortcode [wikiobutton]"
+
+#: wikiovote-button.php:338
+#@ wikiovote_button
+msgid "Manual"
+msgstr "Eigene Position"
+
+#: wikiovote-button.php:346
+#@ wikiovote_button
+msgid "RSS Position"
+msgstr "RSS Position"
+
+#: wikiovote-button.php:361
+#@ wikiovote_button
+msgid "Type"
+msgstr "Typ"
+
+#: wikiovote-button.php:376
+#@ wikiovote_button
+msgid "Long button"
+msgstr "Long Button"
+
+#: wikiovote-button.php:381
+#@ wikiovote_button
+msgid "Big button"
+msgstr "Big Button"
+
+#: wikiovote-button.php:426
+#@ wikiovote_button
+msgid "Styling"
+msgstr "Styling"
+
+#: wikiovote-button.php:431
+#@ wikiovote_button
+msgid "Add style to the div that surrounds the button E.g. <code>float: left; margin-right: 10px;</code>"
+msgstr "Style des DIVs, der den Button umgibt. Beispiel: <code>float: left; margin-right: 10px;</code>"
+
+#: wikiovote-button.php:437
+#@ wikiovote_button
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: wikiovote-button.php:142
+#@ wikiovote_button
+msgid "Options in database updated."
+msgstr "Optionen in der Datenbank aktualisiert."
+
+#: wikiovote-button.php:158
+#@ wikiovote_button
+msgid "here"
+msgstr "hier"
+
+#: wikiovote-button.php:230
+#@ wikiovote_button
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: wikiovote-button.php:288
+#@ wikiovote_button
+msgid "Your Wikio"
+msgstr "Dein Wikio"
+
+#: wikiovote-button.php:292
+#@ wikiovote_button
+msgid "http://www.wikio."
+msgstr "http://www.wikio."
+
+#: wikiovote-button.php:364
+#@ wikiovote_button
+msgid "Vote Button"
+msgstr "Vote Button"
+
+#: wikiovote-button.php:368
+#@ wikiovote_button
+msgid "Boost Button"
+msgstr "Boost Button"
+
+#: wikiovote-button.php:387
+#@ wikiovote_button
+msgid "The support for this vote-button will be cancelled in futre times by wikio. Please use the boost-buttons."
+msgstr "Der Support des Vote-Buttons wird demnächst von Seiten Wikio eingestellt. Nutze daher möglichst einen der Boost-Buttons."
+
+#: wikiovote-button.php:397
+#@ wikiovote_button
+msgid "Square white"
+msgstr "Square white"
+
+#: wikiovote-button.php:402
+#@ wikiovote_button
+msgid "Square blue"
+msgstr "Square blue"
+
+#: wikiovote-button.php:407
+#@ wikiovote_button
+msgid "Capsule white"
+msgstr "Capsule white"
+
+#: wikiovote-button.php:412
+#@ wikiovote_button
+msgid "Capsule blue"
+msgstr "Capsule blue"
+
+#: wikiovote-button.php:417
+#@ wikiovote_button
+msgid "Wikio Icon"
+msgstr "Wikio Icon"
+
+#: wikiovote-button.php:506
+#@ wikiovote_button
+msgid "Update Options"
+msgstr "Aktualisiere Optionen"
+
+#: wikiovote-button.php:157
+#, php-format
+#@ wikiovote_button
+msgid "You have to update the options the Wikiobuttons in database. Please click %1$s."
+msgstr "Die Optinen in der Datenbank müssen an das neue Format angepasst werden. Klicke dazu %1$s."
+
